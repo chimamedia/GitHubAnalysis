@@ -1,0 +1,9 @@
+{
+  "repositories": [
+    {"name": "C01", "url": "https://github.com/2026OITGameProduct/C_01"},
+    {"name": "C02", "url": "https://github.com/2026OITGameProduct/C02_gamecontents"},
+    {"name": "C03", "url": "https://github.com/2026OITGameProduct/Gamecreation_c03"},
+    {"name": "C04", "url": "https://github.com/2026OITGameProduct/gamecreation_c04"},
+    {"name": "C05", "url": "https://github.com/2026OITGameProduct/AntiSmartphone"}
+  ]
+}

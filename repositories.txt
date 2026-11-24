@@ -1,0 +1,3 @@
+# URLのみ，または「班名<TAB>URL」を1行ずつ記載
+team01	https://github.com/octocat/Hello-World
+team02	https://github.com/octocat/Spoon-Knife
